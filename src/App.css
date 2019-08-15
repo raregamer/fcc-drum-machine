@@ -6,7 +6,7 @@ body,html{
   height: 100%;
 }
 body{
-  background-image: url('https://raregamer.github.io/bg-concert.jpg');
+  background-image: url('./bg-concert.jpg');
   background-size: cover;
 }
 
